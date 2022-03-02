@@ -18,7 +18,7 @@
 <br/>
 
 ## How to Play:
-### Game rules
+### Game Rules
 - There are 2 tanks shown as ">"
 - The one which is fixed is the enemy and you are the other tank.
 - The aim is to shoot the enemy tank without passing through its line of fire.
