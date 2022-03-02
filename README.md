@@ -33,7 +33,7 @@
 - L : Save log
 - SPACE : Execute action
 
-NOTE: You can type multiple commands amd execute them consecutively
+NOTE: You can type multiple commands and execute them consecutively
 
 <br/>
 
