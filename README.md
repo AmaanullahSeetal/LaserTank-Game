@@ -25,17 +25,17 @@
 - You can use the mirrors to make an indirect hit which is more fun.
 
 ### Game Controls
-- W :  Go up
-- A :  Go left
+- W : Go up
+- A : Go left
 - S : Go down
 - D : Go right
 - F : Fire laser
+- L : Save log
+- SPACE : Execute action
 
-
+NOTE: You can type multiple commands amd execute them consecutively
 
 <br/>
-
-
 
 ## Connect with me:
 [<img align="left" alt="LinkedIn.com" width="22px" src="https://i.imgur.com/FDQIUtd.jpg" style="padding-right:10px;"/>][website]
