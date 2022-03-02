@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "newsleep.h": "c",
+        "string.h": "c"
+    }
+}

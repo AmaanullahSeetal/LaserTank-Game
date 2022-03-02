@@ -1,9 +1,5 @@
 /* ********************************************************************
- * File    : laser.c
- * Date    : 03 May 2021
- * Author  : Amaanullah Seetal (id:2033 9098)
- * ----------------------------------------------------------------
- * Purpose : Handles all laser events, inclu. animations
+ * Purpose : Handles all laser events, inclu. animations :
  **********************************************************************/
 
  #include <stdio.h>
