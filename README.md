@@ -20,9 +20,9 @@
 ## How to Play:
 ### Game rules
 - There are 2 tanks shown as ">"
-- The one which is fixed is the enemy and you are the other tanks.
+- The one which is fixed is the enemy and you are the other tank.
 - The aim is to shoot the enemy tank without passing through its line of fire.
-- You can use the mirrors to make an indirect hit if you need.
+- You can use the mirrors to make an indirect hit which is more fun.
 
 ### Game Controls
 - W :  Go up
