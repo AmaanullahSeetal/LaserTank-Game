@@ -1,9 +1,5 @@
  # ----------------------------------------------------------------
- # File    : Makefile
- # Date    : 03 May 2021
- # Author  : Amaanullah Seetal
- # ----------------------------------------------------------------
- # Purpose : A makefile to compile lasertank program (assignemnt 2)
+ # Purpose : A makefile to compile lasertank program
  # ----------------------------------------------------------------
 
 
